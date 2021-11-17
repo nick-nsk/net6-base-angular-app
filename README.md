@@ -11,3 +11,7 @@ mkdir net6-base-angular-app
 cd net6-base-angular-app
 dotnet new angular -au Individual
 ```
+
+## 2. make it usable
+
+see **Pull requests** -> **Closed** -> **fix: make it usable #2** -> **Files changed** for details
