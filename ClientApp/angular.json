@@ -72,8 +72,7 @@
               "browserTarget": "net6_base_angular_app:build:production"
             },
             "development": {
-              "browserTarget": "net6_base_angular_app:build:development",
-              "proxyConfig": "proxy.conf.js"
+              "browserTarget": "net6_base_angular_app:build:development"
             }
           },
           "defaultConfiguration": "development"
